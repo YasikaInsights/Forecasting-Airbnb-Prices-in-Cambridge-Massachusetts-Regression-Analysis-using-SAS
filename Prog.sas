@@ -1,5 +1,5 @@
 PROC IMPORT OUT= WORK.Cam 
-            DATAFILE= "C:\Users\tpatel6\Desktop\SAS\listings Cambridge (
+            DATAFILE= "C:\Users\ysawant1\Desktop\SAS\listings Cambridge (
 2).csv" 
             DBMS=CSV REPLACE;
      GETNAMES=YES;

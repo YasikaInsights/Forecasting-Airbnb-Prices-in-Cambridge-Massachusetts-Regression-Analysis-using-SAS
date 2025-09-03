@@ -1,2 +1,3 @@
 # Forecasting-Airbnb-Prices-in-Cambridge-Massachusetts-Regression-Analysis-using-SAS
-This project aimed to predict thyroid cancer risk by analyzing a large and diverse dataset of over 212,000 patient records using advanced statistical and machine learning techniques. The approach combined descriptive analytics, regression modeling, and a high-performance random forest (HPFOREST) algorithm in SAS to derive clinical insights and build a robust predictive model.
+# The study highlights the importance of listing characteristics in determining pricing strategies for Airbnb hosts, suggesting that adjusting room types and managing reviews can influence competitiveness. 
+![Uploading image.png…]()

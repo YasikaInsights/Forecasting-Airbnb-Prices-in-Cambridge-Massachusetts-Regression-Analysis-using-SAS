@@ -5,5 +5,6 @@ This result will help us understand how different factors affect Airbnb listing 
 <img width="1426" height="777" alt="image" src="https://github.com/user-attachments/assets/92b21cbc-cfd7-45b9-bf99-69b9c3fd5d26" />
 <img width="1423" height="787" alt="image" src="https://github.com/user-attachments/assets/f1d1d3be-ce92-4e42-b95f-055076c4851f" />
 <img width="1415" height="750" alt="image" src="https://github.com/user-attachments/assets/f9c268ef-a983-4f6c-b81d-6a60a7c39a86" />
-<img width="1415" height="750" alt="image" src="https://github.com/user-attachments/assets/246ba193-4ddb-4d35-af2c-df38d577ca87" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fa69533c-3ffb-4508-b0aa-f661b402febf" />
+
 
